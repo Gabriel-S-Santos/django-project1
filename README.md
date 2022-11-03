@@ -1,1 +1,1 @@
-# Primeiro projeto em Djando
+# Primeiro projeto em Django
